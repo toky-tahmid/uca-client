@@ -10,19 +10,19 @@ const Footer = () => {
       items: [
         { name: "Instagram", url: "https://www.instagram.com/" },
         { name: "Linkedin", url: "https://www.linkedin.com/" },
-        { name: "GitHub", url: "https://github.com/" },
+        { name: "Facebook", url: "https://www.facebook.com/ucasupport" },
       ],
     },
   ];
   const currentYear = new Date().getFullYear();
   return (
-    <footer className="relative bg-zinc-800 pt-16  m-5 rounded-[3rem]">
+    <footer className="relative bg-gray-900 pt-16  m-5 rounded-[3rem]">
       <div className="mx-auto w-full px-8">
         <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-2">
           <Typography variant="h5" className="mb-6 text-neutral-400">
             <img
-              className="h-32 ml-10 mt-8"
-              src=""
+              className="h-44 ml-10 "
+              src="https://i.ibb.co/1XMr0Pk/Untitled-design-1.png"
               alt=""
             />
           </Typography>
@@ -73,7 +73,7 @@ const Footer = () => {
             className="mb-4 text-center font-normal text-neutral-400 md:mb-0"
           >
             &copy; {currentYear}{" "}
-            <a href="https://material-tailwind.com/">Made by Astra Solution</a>. All
+            <a href="">Made by Astra Solution</a>. All
             Rights Reserved.
           </Typography>
         </div>
