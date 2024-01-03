@@ -22,8 +22,8 @@ const Footer = () => {
           <Typography variant="h5" className="mb-6 text-neutral-400">
             <img
               className="h-44 ml-10 "
-              src="https://i.ibb.co/1XMr0Pk/Untitled-design-1.png"
-              alt=""
+              src="https://i.ibb.co/mFgnVSJ/UCA-SUPPORT-1.png"
+              alt="UCA support"
             />
           </Typography>
           <div className="grid grid-cols-3 justify-between gap-8">

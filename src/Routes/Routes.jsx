@@ -16,7 +16,7 @@ const router = createBrowserRouter([
       {
         path: "/countriesDetails/:id",
         element: <CountriesDetails></CountriesDetails>,
-        loader:({params})=>fetch(`/Public.json/${params.id}`)
+        loader:()=>fetch('/Public.json')
       }
       
     ],

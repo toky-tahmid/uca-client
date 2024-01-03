@@ -69,17 +69,15 @@ const Banner = () => {
       <div className="absolute flex justify-center lg:pt-12 ">
         <div className="flex flex-col items-center justify-center h-[88vh]">
           <h2 className="xl:text-6xl md:text-4xl text-3xl font-primary font-bold text-white text-center md:leading-[1.2] drop-shadow-lg shadow-black mb-5 lg:mb-7">
-            Discover Your <span className="text-[#19a463]">Dream </span>
+            Discover Your <span className="text-[#f7c221]">Dream </span>
             <br />
           </h2>
           <div className="w-full flex items-center justify-center">
             <div className="relative"></div>
             <div>
-           
               <button
-                className="text-sm flex items-center gap-2 md:text-base inter rounded py-3 px-5 text-slate-900 font-bold bg-[#19a463fd] content-glow hover:bg-transparent hover:border-[#19a463] hover:border hover:duration-700 hover:text-white"
+                className="text-sm flex items-center gap-2 md:text-base rounded py-3 px-5 text-slate-900 font-bold bg-[#f7c221fd] content-glow hover:bg-[#f7c2218f] hover:backdrop-blur-sm hover:border-[#f7c221] hover:border hover:duration-700 hover:text-white"
               >
-               
                 Explore More
               </button>
             </div>

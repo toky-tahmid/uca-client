@@ -9,15 +9,15 @@ const Contact = () => {
     <h1 className="text-center text-3xl font-bold">Contact Us!</h1>
     <br />
     
-    <div className="grid grid-cols-1 gap-10 md:grid-cols-2 lg:grid-cols-3 ">
-      <div className="card bg-zinc-300 shadow-xl">
+    <div className="max-w-[1440px] mt-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-6 mx-auto px-2">
+      <div className="card border border-zinc-300 drop-shadow-xl">
         <div className="card-body">
         <FaMapLocationDot className="text-2xl  text-red-600 mx-auto " />
           <h2 className="text-center text-2xl font-bold">ADDRESS</h2>
           <p className="font-medium text-center">21/A, 1st Floor (Back Side), Road 2, Block A, Jahirul Islam City, Aftab Nagar, Dhaka, Bangladesh</p>
         </div>
       </div>
-      <div className="card  bg-zinc-300 shadow-xl">
+      <div className="card border border-zinc-300 drop-shadow-xl">
         <div className="card-body">
         <TbPhoneCalling  className="text-2xl  text-red-600 mx-auto" />
           <h2 className="text-center text-2xl font-bold">PHONE NUMBER</h2>
@@ -27,7 +27,7 @@ const Contact = () => {
           </p>
         </div>
       </div>
-      <div className="card bg-zinc-300 shadow-xl">
+      <div className="card border border-zinc-300 drop-shadow-xl">
         <div className="card-body">
         <MdAttachEmail  className="text-2xl  text-red-600 mx-auto" />
           <h2 className="text-center text-2xl font-bold">EMAIL ADDRESS</h2>

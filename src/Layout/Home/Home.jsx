@@ -11,15 +11,22 @@ const Home = () => {
     return (
         <div>
             <Banner></Banner>
+           <div id="/country">
            <Countries data={data}></Countries>
+           </div>
+           <div id="testimonials">
            <Testimonials></Testimonials>
+           </div>
            <br />
            <br />
+           <div id="blogs">
            <Blogs></Blogs>
+           </div>
         <br /> 
         <br />
-        
+           <div id="contact">
            <Contact></Contact>
+           </div>
         </div>
     );
 };
