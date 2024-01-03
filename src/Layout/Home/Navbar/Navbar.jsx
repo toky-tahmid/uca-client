@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
@@ -33,12 +34,12 @@ const Navbar = () => {
             <div className="w-full flex justify-center items-center mt-5 lg:mt-0 mb-2 lg:mb-0">
               <div>
                 <ul className="flex flex-col lg:flex-row list-none lg:ml-auto gap-3 xl:gap-5">
-                  <a
-                    href="#/"
+                  <NavLink
+                    to="/"
                     className="nav-item px-1 xl:px-3 py-2 flex items-center text-sm xl:text-base uppercase font-semibold  text-[#00E5F7] dark:text-white duration-300 hover:opacity-75"
                   >
                     Home
-                  </a>
+                  </NavLink>
 
                   <a
                     href="#skills"
@@ -52,7 +53,13 @@ const Navbar = () => {
                   >
                     Countries
                   </a>
-                  
+                  <a
+                    href="#experience"
+                    className="nav-item px-1 xl:px-3 py-2 flex items-center text-sm xl:text-base uppercase font-semibold  text-[#00E5F7] dark:text-white duration-300 hover:opacity-75"
+                  >
+                    Testimonials
+                  </a>
+
                   <a
                     href="#contact"
                     className="nav-item px-1 xl:px-3 py-2 flex items-center text-sm xl:text-base uppercase font-semibold  text-[#00E5F7] dark:text-white duration-300 hover:opacity-75"

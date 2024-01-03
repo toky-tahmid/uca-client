@@ -1,38 +1,44 @@
 [
     {
-      "image": "https://example.com/uk-image.jpg",
-      "title": "Historic Charm in the UK",
-      "short_description": "Explore the rich history and cultural heritage of the United Kingdom.",
+      "id": 1,
+      "image": "https://i.ibb.co/9bNL0yD/1.jpg",
+      "title": "UK",
+      "short_description": "In Uk you will earn High-quality education, affordable fees structure, post-study work opportunities, cultural hub in Europe, So apply with UCA now!",
       "long_description": "Immerse yourself in the historic charm of the United Kingdom. From the iconic landmarks of London to the picturesque landscapes of the Scottish Highlands, this journey promises an unforgettable experience. Discover the tales of kings and queens, explore centuries-old castles, and savor the diverse cuisine that reflects the UK's cultural tapestry."
     },
     {
-      "image": "https://example.com/canada-image.jpg",
-      "title": "Adventure in Canada's Wilderness",
-      "short_description": "Embark on a thrilling adventure amidst Canada's breathtaking natural landscapes.",
+      "id": 2,
+      "image": "https://i.ibb.co/gRp61tF/2.jpg",
+      "title": " Canada",
+      "short_description": "Work while you study, get PR and settle in Canada after graduation, All of your journey University College Admission (UCA) will assist you. ",
       "long_description": "Experience the untamed beauty of Canada's wilderness. Traverse through majestic mountain ranges, paddle across crystal-clear lakes, and witness the awe-inspiring Northern Lights. This journey is a celebration of Canada's diverse ecosystems, from the rugged Rocky Mountains to the serene beauty of Banff National Park. Get ready for an unforgettable outdoor escapade."
     },
     {
-      "image": "https://example.com/usa-image.jpg",
-      "title": "Discover the Heart of America",
-      "short_description": "Uncover the vibrant culture and diverse landscapes of the United States.",
+      "id": 3,
+      "image": "https://i.ibb.co/q7TFTp1/4.jpg",
+      "title": "USA",
+      "short_description": "UCA will assist you to get admission in top Universities in USA. Where you will get cultural diversity, good job opportunities and work opportunity.",
       "long_description": "Embark on a journey to discover the heart of America. From the bustling streets of New York City to the serene beauty of the Grand Canyon, this adventure showcases the incredible diversity of the United States. Explore iconic landmarks, indulge in regional cuisines, and immerse yourself in the unique stories that shape each corner of this vast and dynamic country."
     },
     {
-      "image": "https://example.com/finland-image.jpg",
-      "title": "Arctic Wonders in Finland",
-      "short_description": "Experience the enchanting beauty of Finland's Arctic landscapes and vibrant cities.",
+      "id": 4,
+      "image": "https://i.ibb.co/8xw1mPn/3.jpg",
+      "title": "Finland",
+      "short_description": "Up to 100% scholarship In Finland, reputed universities, powerful education system and excellent career offer you from UCA: University College Admission.",
       "long_description": "Journey into the magical realm of Finland, where Arctic wonders await. Witness the dance of the Northern Lights, explore the enchanting forests, and indulge in the warmth of Finnish hospitality. From the modern design of Helsinki to the tranquility of Lapland, this adventure combines urban sophistication with the pristine beauty of nature."
     },
     {
-      "image": "https://example.com/dubai-image.jpg",
-      "title": "Luxury and Extravagance in Dubai",
-      "short_description": "Experience opulence and modern marvels in the glamorous city of Dubai.",
+      "id": 5,
+      "image": "https://i.ibb.co/vQBT7TP/6.jpg",
+      "title": "Dubai",
+      "short_description": "University College Admission offer you low-budget cost, good campus, high standard of living, and highest visa success on Study in Dubai.",
       "long_description": "Indulge in the epitome of luxury in the dazzling city of Dubai. Marvel at the futuristic skyline, experience world-class shopping, and immerse yourself in the extravagant lifestyle. From the iconic Burj Khalifa to the pristine beaches, this journey promises a blend of cultural richness and modern opulence that defines the essence of Dubai."
     },
     {
-      "image": "https://example.com/australia-image.jpg",
-      "title": "Nature's Playground in Australia",
-      "short_description": "Explore the diverse landscapes and unique wildlife of Australia.",
+      "id": 6,
+      "image": "https://i.ibb.co/3myM83J/5.jpg",
+      "title": "Australia",
+      "short_description": "Academic excellence, and vibrant career prospects when you choose to study in Australia with University College Admission (UCA). ",
       "long_description": "Embark on an adventure in Australia, a continent of natural wonders. From the vibrant coral reefs of the Great Barrier Reef to the rugged beauty of the Outback, this journey celebrates the unique biodiversity and landscapes of Australia. Discover ancient indigenous cultures, encounter iconic wildlife, and immerse yourself in the untamed beauty that defines the Land Down Under."
     }
   ]
