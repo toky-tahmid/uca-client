@@ -1,7 +1,6 @@
 .zoom-in {
     animation: zoom-in 10s ease-in-out;
 }
-
 @keyframes zoom-in {
     0% {
         transform: scale(1);
@@ -11,8 +10,6 @@
         transform: scale(1.1);
     }
 }
-
-
 .fade-out {
     animation: fade-out 1s ease-in-out;
 }

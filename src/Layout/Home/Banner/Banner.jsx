@@ -71,6 +71,8 @@ const Banner = () => {
           <h2 className="xl:text-6xl md:text-4xl text-3xl font-primary font-bold text-white text-center md:leading-[1.2] drop-shadow-lg shadow-black mb-5 lg:mb-7">
             Discover Your <span className="text-[#f7c221]">Dream </span>
             <br />
+            <span>House</span>
+            <br />
           </h2>
           <div className="w-full flex items-center justify-center">
             <div className="relative"></div>
